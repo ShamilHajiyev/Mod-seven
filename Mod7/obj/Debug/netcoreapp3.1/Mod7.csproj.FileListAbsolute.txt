@@ -1,0 +1,42 @@
+C:\Users\user\source\repos\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.exe
+C:\Users\user\source\repos\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.deps.json
+C:\Users\user\source\repos\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.runtimeconfig.json
+C:\Users\user\source\repos\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.runtimeconfig.dev.json
+C:\Users\user\source\repos\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.dll
+C:\Users\user\source\repos\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.pdb
+C:\Users\user\source\repos\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.AssemblyInfo.cs
+C:\Users\user\source\repos\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.dll
+C:\Users\user\source\repos\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.pdb
+C:\Users\user\source\repos\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.genruntimeconfig.cache
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.exe
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.deps.json
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.runtimeconfig.json
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.dll
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.pdb
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.dll
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.pdb
+C:\Users\user\Desktop\New folder\C#\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.genruntimeconfig.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.exe
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.deps.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.runtimeconfig.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.runtimeconfig.dev.json
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\bin\Debug\netcoreapp3.1\Mod7.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.AssemblyInfo.cs
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.dll
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.pdb
+C:\Users\user\Desktop\Programming\C#\ClassroomTasks\Mod7\Mod7\obj\Debug\netcoreapp3.1\Mod7.genruntimeconfig.cache
